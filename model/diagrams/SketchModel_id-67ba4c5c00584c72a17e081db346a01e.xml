@@ -1,0 +1,61 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sketching"
+    id="id-67ba4c5c00584c72a17e081db346a01e">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-6e5474fe695847bda4ba7b2d6e7cbaa3"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffff00"
+      content="Yeah right">
+    <bounds
+        x="420"
+        y="288"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="id-b73e260e4b9e43e8844d2783b350dca7"
+      name="Actor">
+    <sourceConnections
+        id="id-b1b8700cea0d48faa4afa6a11eb2653c"
+        source="id-b73e260e4b9e43e8844d2783b350dca7"
+        target="id-01d6c6989ae14fdbbc436926bed233b8"
+        type="5"/>
+    <bounds
+        x="516"
+        y="60"
+        width="75"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-01d6c6989ae14fdbbc436926bed233b8"
+      name="Some things"
+      targetConnections="id-b1b8700cea0d48faa4afa6a11eb2653c"
+      textAlignment="1">
+    <bounds
+        x="84"
+        y="12"
+        width="277"
+        height="253"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-7b3c9467c4c34f01992e701c1fcf8607"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffff00"
+        content="This is something to think about">
+      <bounds
+          x="48"
+          y="108"
+          width="135"
+          height="70"/>
+    </children>
+  </children>
+</archimate:SketchModel>
