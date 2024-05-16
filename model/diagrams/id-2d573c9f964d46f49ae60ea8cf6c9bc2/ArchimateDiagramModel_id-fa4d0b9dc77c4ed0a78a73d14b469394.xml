@@ -208,7 +208,7 @@
         id="id-8b36e2d2bc8847b399444f5984e0f621"
         targetConnections="id-14b18c52d58344beb3c761a5ae040d8d">
       <bounds
-          x="288"
+          x="300"
           y="48"
           width="120"
           height="55"/>
@@ -221,7 +221,7 @@
         id="id-420a618d1ccd41cd9eebc7e745a6c368"
         targetConnections="id-44602ec2b2e84b3185963a9ab02c24b7">
       <bounds
-          x="420"
+          x="432"
           y="48"
           width="120"
           height="55"/>
@@ -337,7 +337,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -348,7 +348,7 @@
         id="id-0df2fde3f5ef49e98829eea977ae1110"
         targetConnections="id-8f225b6701f84627bb5c5be20a5789cd">
       <bounds
-          x="156"
+          x="168"
           y="48"
           width="120"
           height="55"/>
