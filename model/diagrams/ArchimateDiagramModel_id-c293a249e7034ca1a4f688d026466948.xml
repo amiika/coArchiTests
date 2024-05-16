@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Commit changes"
+    id="id-c293a249e7034ca1a4f688d026466948">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0d160090e0b64d899b86233a5ebdfdf3"
+      targetConnections="id-d5cbb0a0043643bc80f99fc8a669b25f">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-e5b3f723d9a148d3ac9f5088d55b820f.xml#id-e5b3f723d9a148d3ac9f5088d55b820f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-166f18a9b47343fdb37afd85e4e6d609">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d5cbb0a0043643bc80f99fc8a669b25f"
+        source="id-166f18a9b47343fdb37afd85e4e6d609"
+        target="id-0d160090e0b64d899b86233a5ebdfdf3">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-ae6d4cc0b46b406fb1e8df9c8ed189e1.xml#id-ae6d4cc0b46b406fb1e8df9c8ed189e1"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-cdb035b5546c4e209a81fb545a732188.xml#id-cdb035b5546c4e209a81fb545a732188"/>
+  </children>
+</archimate:ArchimateDiagramModel>
